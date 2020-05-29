@@ -1,4 +1,4 @@
-# Objects-2
+# GitHub Data
 
 This is the answer to the second practice exercise in NSS Book 2, Chapter 2 -- Objects.
 
